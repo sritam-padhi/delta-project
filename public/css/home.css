@@ -1,0 +1,16 @@
+body{
+    border: 2px solid black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    font-size: xx-large;
+    text-decoration: none;
+    color: rgb(219, 219, 204);
+    background-color: rgb(4, 7, 6);
+    border: 2px aqua solid;
+    border-radius: 10px;
+}
